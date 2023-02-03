@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project for The Odin Project curriculum : https://www.theodinproject.com/lessons/ruby-on-rails-flickr-api
 
-Things you may want to cover:
 
-* Ruby version
+Preguntas para Matt:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1) How do I save an ENV using the command line? Which are the best practices?
